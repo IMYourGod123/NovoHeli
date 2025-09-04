@@ -3,6 +3,8 @@ This is our project Github Repository.
 
 For the Track that we selected is **Industry Collaboration**.
 
+Our Project Title is **Dynamic Screw Detection and Object Counting using Image Processing.**
+
 **Problem Statement**
 Manual counting is not only time-consuming but also prone to human error, especially when dealing with large volumes. This inefficiency often leads to inconsistencies and slows down productivity, highlighting the need for a more accurate and automated solution.
 
